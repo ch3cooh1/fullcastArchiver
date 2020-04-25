@@ -8,7 +8,6 @@ import requests
 import json
 import xml.etree.ElementTree as ET
 import pandas as pd
-import glob
 from datetime import datetime
 url = 'https://feeds.megaphone.fm/fullcast'
 
